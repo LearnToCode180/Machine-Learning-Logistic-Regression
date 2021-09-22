@@ -1,2 +1,5 @@
 # Machine-Learning-Logistic-Regression
-We’ll be trying to predict a classification of the Titanic passengers as survived or deceased
+This simple project is my first step on Machine Learning where I have learned how to implement Logistic Regression in Python for classification.
+
+#
+I have worked with the famous dataset from Kaggle of 
